@@ -1,0 +1,14 @@
+EPL语法
+
+[annotations]
+[expression_declarations]
+[context context_name]
+[insert into insert_into_def]
+select select_list
+from stream_def [as name] [, stream_def [as name]] [,...]
+[where search_conditions]
+[group by grouping_expression_list]
+[having grouping_search_conditions]
+[output output_specification]
+[order by order_by_expression_list]
+[limit num_rows]
